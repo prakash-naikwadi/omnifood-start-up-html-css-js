@@ -27,3 +27,4 @@ A Food Delivary AI Startup Fully Responsive website, build using **HTML5, CSS3, 
 
 ## 📌 Acknowledgments
 - This ReadMe File Inspired From - [Jigar Sable](https://github.com/jigar-sable)
+- Course Instructor - [Jonas Schmedtmann](https://codingheroes.io/)
