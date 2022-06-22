@@ -1,5 +1,5 @@
 ## Omnifood-Never Cook Again
-A Food Delivary AI Startup Fully Responsive website, build using **HTML5, CSS3, JavaScript.**  
+A Food Delivary AI Startup **Fully Responsive** website, build using **HTML5, CSS3, JavaScript.**  
 
 **Live Site URL:** <a href="https://prakash-naikwadi.github.io/omnifood-start-up-html-css-js/" target="_blank">**Visit Now** 🚀</a>  
 
