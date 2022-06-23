@@ -1,5 +1,5 @@
 ## ⭐ Omnifood-Never Cook Again ⭐
-A Food Delivery AI Startup's **Fully Responsive** website, build using **HTML5, CSS3 and JavaScript.**
+A Food Delivery AI Startup's **Fully Responsive** website, built using **HTML5, CSS3, and JavaScript.**
 
 **Live Site URL:** <a href="https://prakash-naikwadi.github.io/omnifood-start-up-html-css-js/" target="_blank">**Visit Now** 🚀</a>  
 
