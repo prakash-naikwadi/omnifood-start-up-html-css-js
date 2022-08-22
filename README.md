@@ -3,7 +3,7 @@ A Food Delivery AI Startup's **Fully Responsive** website, built using **HTML5, 
 <br>
 <br>
 
-## 📌 **Live Site URL:** <a href="https://prakash-naikwadi.github.io/omnifood-start-up-html-css-js/" target="_blank">**Visit Now** 🚀</a>  
+## 📌 **Live Site URL:** <a href="https://omnifood-ai-startup.netlify.app/" target="_blank">**Visit Now** 🚀</a>  
 <br>
 
 
